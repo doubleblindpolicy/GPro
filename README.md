@@ -1,4 +1,4 @@
-# Out-of-Distribution Generalization on Graphs: A Chain-of-Thought Perspective
+# Out-of-Distribution Generalization on Graphs via Progressive Reasoning
 
 ## Datasets
 The data is available [here](https://pan.baidu.com/s/1BfBLtey_RiqyX7EoVAA_BA), extraction code: z4m1
