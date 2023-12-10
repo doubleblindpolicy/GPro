@@ -20,7 +20,7 @@ else
 fi
 
 out_dir="output_GCN_"$dataset"_seed_"$seed"_lambda1_"$lambda1"_lambda2_"$lambda2"_lambda3_"$lambda3""
-python -u $code --config 'configs/superpixels_graph_classification_GCoT_MNIST_100k.json' \
+python -u $code --config 'configs/superpixels_graph_classification_GPro_MNIST_100k.json' \
 --dataset $dataset \
 --data_dir $data_dir \
 --seed $seed  \
